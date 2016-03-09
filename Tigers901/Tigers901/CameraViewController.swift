@@ -250,6 +250,7 @@ class CameraViewController: UIViewController, UICollectionViewDataSource, UIColl
         }
         else
         {
+            //lol
             /*var feedItems = [FeedItem]()
             var photos = [Photo]()
             var videos = [Video]()
