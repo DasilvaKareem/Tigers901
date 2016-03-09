@@ -1,0 +1,4 @@
+xcodeproj '/Users/kareemdasilva/Code/Tigers901/Tigers901/Tigers901.xcodeproj'
+
+pod 'Parse'
+pod 'LLSimpleCamera', '~> 3.0'
